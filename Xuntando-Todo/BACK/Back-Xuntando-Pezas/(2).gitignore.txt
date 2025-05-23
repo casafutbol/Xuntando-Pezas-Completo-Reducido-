@@ -1,0 +1,4 @@
+node_modules
+package-lock.json
+datos/probas.bbdd.israel.ts
+proba.israel.db
